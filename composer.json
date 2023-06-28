@@ -1,0 +1,13 @@
+{
+    "name": "przeslijmi/ad-avmona-plug",
+    "version": "v1.0.7",
+    "type": "library",
+    "license": "proprietary",
+    "description": "",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Przeslijmi\\AgileDataAvmonaPlug\\": "src/"
+        }
+    }
+}
